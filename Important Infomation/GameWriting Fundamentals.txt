@@ -1,0 +1,9 @@
+Game Writing has;
+
+You can choose one 2 or 3 combination of these as the fundamentals of Game developing
+
+Plot - Why are they doing this and that
+
+Lore - every location, structure etc needs lore
+
+Characters - NPCs, Bosses, Enemies and the Protagonist

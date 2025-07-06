@@ -1,10 +1,25 @@
 Automation of these software's insures Clean workflow with yourself and your team
 
+Tiled - Works great with Aseprite or other 2D style stuff, auto mapping etc, look on youtube
 Trello - To do list
-
 Miro - Whiteboard with stickers
-
 Xmind - good for Features and expanding on said features like a spider web
 
+Add more to this list !
 
-You can add more to this list and give it to the next person, make sure it follows the same structure as above
+--------------------------------------------------
+
+Referencing Software
+
+PureRef - you can get an Open source one This is great if you are reffrencing
+
+Add more to this list !
+
+--------------------------------------------------
+
+Art Software
+
+Aseprite - good for 2D Pixel Art
+Blender - good for 3D Modeling, follow a donut tutorial
+
+Add more to this list !
